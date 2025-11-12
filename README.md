@@ -7,13 +7,13 @@ If the online Pokémon API fails to load, the app automatically uses a **local f
 
 ##  Features
 
-✅ Fetches two random Pokémon cards from the official Pokémon TCG API  
-✅ Calculates and displays HP for both cards  
-✅ Declares the winner based on HP comparison  
-✅ “Draw Again” button to refresh the battle  
-✅ Graceful fallback to local JSON data if the API is unavailable  
-✅ Displays loading and error states clearly  
-✅ Clean and minimal Material 3 UI  
+ Fetches two random Pokémon cards from the official Pokémon TCG API  
+ Calculates and displays HP for both cards  
+ Declares the winner based on HP comparison  
+ “Draw Again” button to refresh the battle  
+ Graceful fallback to local JSON data if the API is unavailable  
+ Displays loading and error states clearly  
+ Clean and minimal Material 3 UI  
 
 ##  Tech Stack
 
